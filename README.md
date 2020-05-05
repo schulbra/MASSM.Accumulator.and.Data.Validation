@@ -1,5 +1,3 @@
-# MASSM.Accumulator.and.Data.Validation
-Practice with... 
 1.Implementing data validation  
 2.Implementation of an accumulator  
 3.Integer arithmetic  

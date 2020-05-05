@@ -1,6 +1,9 @@
-1.Implementing data validation  
-2.Implementation of an accumulator  
-3.Integer arithmetic  
-4.Defining variables (integer and string)  
-5.Using library procedures for I/O  
-6.Implementing control structures (decision, loop, procedure)
+MASSM practice concerning:
+
+
+-Implementation of data validation  
+-Implementation of an accumulator  
+-Integer arithmetic  
+-Defining variables (integer and string)  
+-Using library procedures for I/O  
+-Implementing control structures (decision, loop, procedure)
